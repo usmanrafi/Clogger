@@ -1,0 +1,6 @@
+{
+	"name" : "Clogger",
+	"description" : "Extension to log time spent on websites",
+	"version" : "1.0",
+	"manifest_version" : 2
+}
